@@ -1,0 +1,30 @@
+body{
+    background-color: lightgrey;
+}
+
+#heading{
+    background-color: palevioletred;
+    color:rgb(9, 68, 102);
+}
+
+#show_sketch{
+    float:right;
+    border-radius: 5px;
+    
+}
+
+#image{
+    color: purple;
+}
+
+#score_span{
+    margin:70px;
+    float:left;
+    font-size: large;
+}
+
+#timer_span{
+    font-size: large;
+    float: right;
+    margin: 80px;;
+}
